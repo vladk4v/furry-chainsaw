@@ -1,0 +1,5 @@
+rootProject.name = 'Parsers'
+include 'methods'
+include 'parse_csv'
+include 'parse_xml'
+
